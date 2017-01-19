@@ -1,0 +1,30 @@
+C:\Users\Sara\Desktop\Projekat SNUS - P1\SCADACore\bin\Debug\SCADACore.exe.config
+C:\Users\Sara\Desktop\Projekat SNUS - P1\SCADACore\bin\Debug\SCADACore.exe
+C:\Users\Sara\Desktop\Projekat SNUS - P1\SCADACore\bin\Debug\SCADACore.pdb
+C:\Users\Sara\Desktop\Projekat SNUS - P1\SCADACore\bin\Debug\ScadaCommon.dll
+C:\Users\Sara\Desktop\Projekat SNUS - P1\SCADACore\bin\Debug\ScadaCommon.pdb
+C:\Users\Sara\Desktop\Projekat SNUS - P1\SCADACore\obj\Debug\SCADASystem.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Desktop\Projekat SNUS - P1\SCADACore\obj\Debug\SCADACore.exe
+C:\Users\Sara\Desktop\Projekat SNUS - P1\SCADACore\obj\Debug\SCADACore.pdb
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\SCADACore\bin\Debug\SCADACore.exe.config
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\SCADACore\bin\Debug\SCADACore.exe
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\SCADACore\bin\Debug\SCADACore.pdb
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\SCADACore\bin\Debug\ScadaCommon.dll
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\SCADACore\bin\Debug\ScadaCommon.pdb
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\SCADACore\obj\Debug\SCADASystem.csprojResolveAssemblyReference.cache
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\SCADACore\obj\Debug\SCADACore.exe
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\SCADACore\obj\Debug\SCADACore.pdb
+C:\Users\kacac\Desktop\Projekat SNUS - P1\SCADACore\bin\Debug\SCADACore.exe.config
+C:\Users\kacac\Desktop\Projekat SNUS - P1\SCADACore\obj\Debug\SCADACore.exe
+C:\Users\kacac\Desktop\Projekat SNUS - P1\SCADACore\obj\Debug\SCADACore.pdb
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\SCADACore\bin\Debug\SCADACore.exe.config
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\SCADACore\obj\Debug\SCADACore.exe
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\SCADACore\obj\Debug\SCADACore.pdb
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\SCADACore\obj\Debug\SCADASystem.csprojResolveAssemblyReference.cache
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\SCADACore\bin\Debug\SCADACore.exe
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\SCADACore\bin\Debug\SCADACore.pdb
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\SCADACore\bin\Debug\ScadaCommon.dll
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\SCADACore\bin\Debug\ScadaCommon.pdb
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1FInal\SCADACore\bin\Debug\SCADACore.exe.config
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1FInal\SCADACore\obj\Debug\SCADACore.exe
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1FInal\SCADACore\obj\Debug\SCADACore.pdb

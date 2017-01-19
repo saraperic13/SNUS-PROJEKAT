@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTag xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tag xsi:type="AnalogInput">
+    <TagId>AI 1</TagId>
+    <Description>des</Description>
+    <SimulationDriver>
+      <TagValues>
+        <double>0</double>
+        <double>33.333333333333329</double>
+        <double>0</double>
+        <double>5</double>
+        <double>0</double>
+        <double>74.314482547739431</double>
+        <double>1</double>
+        <double>0</double>
+        <double>0</double>
+        <double>0</double>
+        <double>58.778525229247315</double>
+        <double>0</double>
+        <double>-35.836794954530028</double>
+      </TagValues>
+      <Addresses>
+        <string>1</string>
+        <string>3</string>
+        <string>2</string>
+        <string>4</string>
+        <string>5</string>
+        <string>7</string>
+        <string>6</string>
+        <string>mds.a</string>
+        <string>addresa novog</string>
+        <string>fjklsf</string>
+        <string>dds</string>
+        <string>asklsa;l</string>
+        <string>323</string>
+      </Addresses>
+    </SimulationDriver>
+    <IOAddress>3</IOAddress>
+    <Scan>true</Scan>
+    <Auto>true</Auto>
+    <ScanTime>2</ScanTime>
+    <Alarms>
+      <Alarm>
+        <Description />
+        <TagId>AI 1</TagId>
+        <Time>2017-01-19T02:18:59.0432807+01:00</Time>
+        <AlarmId>2</AlarmId>
+        <Low>0</Low>
+        <High>99</High>
+        <TagValue>-6.6666666666666634</TagValue>
+        <Type>Low boundary exceeded</Type>
+      </Alarm>
+    </Alarms>
+    <Function>Triangle</Function>
+    <LowLimit>-40</LowLimit>
+    <HighLimit>40</HighLimit>
+    <Units>m</Units>
+  </Tag>
+  <Tag xsi:type="AnalogOutput">
+    <TagId>AO 1</TagId>
+    <Description>des</Description>
+    <SimulationDriver>
+      <TagValues>
+        <double>0</double>
+        <double>95.105651629515364</double>
+        <double>1</double>
+        <double>5</double>
+        <double>0</double>
+        <double>10.452846326765346</double>
+        <double>0</double>
+      </TagValues>
+      <Addresses>
+        <string>1</string>
+        <string>3</string>
+        <string>2</string>
+        <string>4</string>
+        <string>5</string>
+        <string>7</string>
+        <string>6</string>
+      </Addresses>
+    </SimulationDriver>
+    <IOAddress>4</IOAddress>
+    <InitialValue>8</InitialValue>
+    <LowLimit>-4</LowLimit>
+    <HighLimit>10</HighLimit>
+    <Units>l</Units>
+  </Tag>
+  <Tag xsi:type="AnalogInput">
+    <TagId>AI 2</TagId>
+    <Description>des</Description>
+    <SimulationDriver>
+      <TagValues>
+        <double>0</double>
+        <double>95.105651629515364</double>
+        <double>1</double>
+        <double>5</double>
+        <double>0</double>
+        <double>10.452846326765346</double>
+        <double>0</double>
+      </TagValues>
+      <Addresses>
+        <string>1</string>
+        <string>3</string>
+        <string>2</string>
+        <string>4</string>
+        <string>5</string>
+        <string>7</string>
+        <string>6</string>
+      </Addresses>
+    </SimulationDriver>
+    <IOAddress>7</IOAddress>
+    <Scan>true</Scan>
+    <Auto>true</Auto>
+    <ScanTime>2</ScanTime>
+    <Alarms>
+      <Alarm>
+        <Description />
+        <TagId>AI 2</TagId>
+        <Time>2017-01-19T02:19:10.0125584+01:00</Time>
+        <AlarmId>10</AlarmId>
+        <Low>-95</Low>
+        <High>85</High>
+        <TagValue>86.602540378443877</TagValue>
+        <Type>High boundary exceeded</Type>
+      </Alarm>
+    </Alarms>
+    <Function>Cosine</Function>
+    <LowLimit>-100</LowLimit>
+    <HighLimit>100</HighLimit>
+    <Units>m</Units>
+  </Tag>
+  <Tag xsi:type="DigitalInput">
+    <TagId>DI 2</TagId>
+    <Description>des</Description>
+    <SimulationDriver>
+      <TagValues>
+        <double>0</double>
+        <double>95.105651629515364</double>
+        <double>1</double>
+        <double>5</double>
+        <double>0</double>
+        <double>10.452846326765346</double>
+        <double>0</double>
+      </TagValues>
+      <Addresses>
+        <string>1</string>
+        <string>3</string>
+        <string>2</string>
+        <string>4</string>
+        <string>5</string>
+        <string>7</string>
+        <string>6</string>
+      </Addresses>
+    </SimulationDriver>
+    <IOAddress>6</IOAddress>
+    <Scan>true</Scan>
+    <Auto>true</Auto>
+    <ScanTime>2</ScanTime>
+    <Alarms>
+      <Alarm>
+        <Description />
+        <TagId>DI 2</TagId>
+        <Time>2017-01-19T02:19:14.762786+01:00</Time>
+        <AlarmId>DI 2 </AlarmId>
+        <Low>0</Low>
+        <High>1</High>
+        <TagValue>1</TagValue>
+        <Type>High boundary exceeded</Type>
+      </Alarm>
+    </Alarms>
+    <Function>Cosine</Function>
+  </Tag>
+  <Tag xsi:type="AnalogInput">
+    <TagId>AI 323</TagId>
+    <Description>EVO PROMENILA SAM</Description>
+    <SimulationDriver>
+      <TagValues>
+        <double>0</double>
+        <double>5.2335956242944253</double>
+        <double>0</double>
+        <double>5</double>
+        <double>0</double>
+        <double>0</double>
+        <double>0</double>
+        <double>0</double>
+        <double>0</double>
+        <double>0</double>
+        <double>58.778525229247315</double>
+        <double>15.643446504023093</double>
+        <double>6.6666666666666661</double>
+      </TagValues>
+      <Addresses>
+        <string>1</string>
+        <string>3</string>
+        <string>2</string>
+        <string>4</string>
+        <string>5</string>
+        <string>7</string>
+        <string>6</string>
+        <string>mds.a</string>
+        <string>addresa novog</string>
+        <string>fjklsf</string>
+        <string>dds</string>
+        <string>asklsa;l</string>
+        <string>323</string>
+      </Addresses>
+    </SimulationDriver>
+    <IOAddress>323</IOAddress>
+    <Scan>true</Scan>
+    <Auto>true</Auto>
+    <ScanTime>2</ScanTime>
+    <Alarms />
+    <Function>Cosine</Function>
+    <LowLimit>-40</LowLimit>
+    <HighLimit>40</HighLimit>
+    <Units>I OVO</Units>
+  </Tag>
+</ArrayOfTag>

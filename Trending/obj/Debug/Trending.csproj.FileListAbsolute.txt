@@ -1,0 +1,36 @@
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\Trending\bin\Debug\Trending.exe.config
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\Trending\bin\Debug\Trending.exe
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\Trending\bin\Debug\Trending.pdb
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\Trending\bin\Debug\ScadaCommon.dll
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\Trending\bin\Debug\ScadaCommon.pdb
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\Trending\obj\Debug\Trending.csprojResolveAssemblyReference.cache
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\Trending\obj\Debug\Trending.TrendingForm.resources
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\Trending\obj\Debug\Trending.Properties.Resources.resources
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\Trending\obj\Debug\Trending.csproj.GenerateResource.Cache
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\Trending\obj\Debug\Trending.exe
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\Trending\obj\Debug\Trending.pdb
+C:\Users\kacac\Desktop\Projekat SNUS - P1\Trending\bin\Debug\Trending.exe.config
+C:\Users\kacac\Desktop\Projekat SNUS - P1\Trending\obj\Debug\Trending.exe
+C:\Users\kacac\Desktop\Projekat SNUS - P1\Trending\obj\Debug\Trending.pdb
+C:\Users\kacac\Desktop\Projekat SNUS - P1\Trending\bin\Debug\Trending.exe
+C:\Users\kacac\Desktop\Projekat SNUS - P1\Trending\bin\Debug\Trending.pdb
+C:\Users\kacac\Desktop\Projekat SNUS - P1\Trending\bin\Debug\ScadaCommon.dll
+C:\Users\kacac\Desktop\Projekat SNUS - P1\Trending\bin\Debug\ScadaCommon.pdb
+C:\Users\kacac\Desktop\Projekat SNUS - P1\Trending\obj\Debug\Trending.csprojResolveAssemblyReference.cache
+C:\Users\kacac\Desktop\Projekat SNUS - P1\Trending\obj\Debug\Trending.TrendingForm.resources
+C:\Users\kacac\Desktop\Projekat SNUS - P1\Trending\obj\Debug\Trending.Properties.Resources.resources
+C:\Users\kacac\Desktop\Projekat SNUS - P1\Trending\obj\Debug\Trending.csproj.GenerateResource.Cache
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\Trending\bin\Debug\Trending.exe.config
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\Trending\obj\Debug\Trending.exe
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\Trending\obj\Debug\Trending.pdb
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\Trending\bin\Debug\Trending.exe
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\Trending\bin\Debug\Trending.pdb
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\Trending\bin\Debug\ScadaCommon.dll
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\Trending\bin\Debug\ScadaCommon.pdb
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\Trending\obj\Debug\Trending.csprojResolveAssemblyReference.cache
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\Trending\obj\Debug\Trending.TrendingForm.resources
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\Trending\obj\Debug\Trending.Properties.Resources.resources
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\Trending\obj\Debug\Trending.csproj.GenerateResource.Cache
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1FInal\Trending\bin\Debug\Trending.exe.config
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1FInal\Trending\obj\Debug\Trending.exe
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1FInal\Trending\obj\Debug\Trending.pdb

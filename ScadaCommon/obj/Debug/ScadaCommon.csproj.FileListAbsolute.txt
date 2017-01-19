@@ -1,0 +1,14 @@
+C:\Users\Sara\Desktop\Projekat SNUS - P1\ScadaCommon\bin\Debug\ScadaCommon.dll
+C:\Users\Sara\Desktop\Projekat SNUS - P1\ScadaCommon\bin\Debug\ScadaCommon.pdb
+C:\Users\Sara\Desktop\Projekat SNUS - P1\ScadaCommon\obj\Debug\ScadaCommon.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Desktop\Projekat SNUS - P1\ScadaCommon\obj\Debug\ScadaCommon.dll
+C:\Users\Sara\Desktop\Projekat SNUS - P1\ScadaCommon\obj\Debug\ScadaCommon.pdb
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\ScadaCommon\bin\Debug\ScadaCommon.dll
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\ScadaCommon\bin\Debug\ScadaCommon.pdb
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\ScadaCommon\obj\Debug\ScadaCommon.dll
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\ScadaCommon\obj\Debug\ScadaCommon.pdb
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\ScadaCommon\bin\Debug\ScadaCommon.dll
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\ScadaCommon\bin\Debug\ScadaCommon.pdb
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\ScadaCommon\obj\Debug\ScadaCommon.csprojResolveAssemblyReference.cache
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\ScadaCommon\obj\Debug\ScadaCommon.dll
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\ScadaCommon\obj\Debug\ScadaCommon.pdb

@@ -1,0 +1,32 @@
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\DatabaseManager\bin\Debug\DatabaseManager.exe.config
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\DatabaseManager\bin\Debug\DatabaseManager.exe
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\DatabaseManager\bin\Debug\DatabaseManager.pdb
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\DatabaseManager\bin\Debug\ScadaCommon.dll
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\DatabaseManager\bin\Debug\ScadaCommon.pdb
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\DatabaseManager\obj\Debug\DatabaseManager.csprojResolveAssemblyReference.cache
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\DatabaseManager\obj\Debug\DatabaseManager.AddAlarmForm.resources
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\DatabaseManager\obj\Debug\DatabaseManager.AddTagForm.resources
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\DatabaseManager\obj\Debug\DatabaseManager.DBManagerForm.resources
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\DatabaseManager\obj\Debug\DatabaseManager.Properties.Resources.resources
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\DatabaseManager\obj\Debug\DatabaseManager.csproj.GenerateResource.Cache
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\DatabaseManager\obj\Debug\DatabaseManager.exe
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\DatabaseManager\obj\Debug\DatabaseManager.pdb
+C:\Users\kacac\Desktop\Projekat SNUS - P1\DatabaseManager\bin\Debug\DatabaseManager.exe.config
+C:\Users\kacac\Desktop\Projekat SNUS - P1\DatabaseManager\obj\Debug\DatabaseManager.exe
+C:\Users\kacac\Desktop\Projekat SNUS - P1\DatabaseManager\obj\Debug\DatabaseManager.pdb
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\DatabaseManager\bin\Debug\DatabaseManager.exe.config
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\DatabaseManager\obj\Debug\DatabaseManager.exe
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\DatabaseManager\obj\Debug\DatabaseManager.pdb
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\DatabaseManager\bin\Debug\DatabaseManager.exe
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\DatabaseManager\bin\Debug\DatabaseManager.pdb
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\DatabaseManager\bin\Debug\ScadaCommon.dll
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\DatabaseManager\bin\Debug\ScadaCommon.pdb
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\DatabaseManager\obj\Debug\DatabaseManager.csprojResolveAssemblyReference.cache
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\DatabaseManager\obj\Debug\DatabaseManager.AddAlarmForm.resources
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\DatabaseManager\obj\Debug\DatabaseManager.AddTagForm.resources
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\DatabaseManager\obj\Debug\DatabaseManager.DBManagerForm.resources
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\DatabaseManager\obj\Debug\DatabaseManager.Properties.Resources.resources
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\DatabaseManager\obj\Debug\DatabaseManager.csproj.GenerateResource.Cache
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1FInal\DatabaseManager\bin\Debug\DatabaseManager.exe.config
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1FInal\DatabaseManager\obj\Debug\DatabaseManager.exe
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1FInal\DatabaseManager\obj\Debug\DatabaseManager.pdb

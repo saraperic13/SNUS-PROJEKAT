@@ -1,0 +1,30 @@
+C:\Users\Sara\Desktop\Projekat SNUS - P1\AlarmDisplay\bin\Debug\AlarmDisplay.exe.config
+C:\Users\Sara\Desktop\Projekat SNUS - P1\AlarmDisplay\bin\Debug\AlarmDisplay.exe
+C:\Users\Sara\Desktop\Projekat SNUS - P1\AlarmDisplay\bin\Debug\AlarmDisplay.pdb
+C:\Users\Sara\Desktop\Projekat SNUS - P1\AlarmDisplay\bin\Debug\ScadaCommon.dll
+C:\Users\Sara\Desktop\Projekat SNUS - P1\AlarmDisplay\bin\Debug\ScadaCommon.pdb
+C:\Users\Sara\Desktop\Projekat SNUS - P1\AlarmDisplay\obj\Debug\AlarmDisplay.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Desktop\Projekat SNUS - P1\AlarmDisplay\obj\Debug\AlarmDisplay.exe
+C:\Users\Sara\Desktop\Projekat SNUS - P1\AlarmDisplay\obj\Debug\AlarmDisplay.pdb
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\AlarmDisplay\bin\Debug\AlarmDisplay.exe.config
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\AlarmDisplay\bin\Debug\AlarmDisplay.exe
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\AlarmDisplay\bin\Debug\AlarmDisplay.pdb
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\AlarmDisplay\bin\Debug\ScadaCommon.dll
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\AlarmDisplay\bin\Debug\ScadaCommon.pdb
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\AlarmDisplay\obj\Debug\AlarmDisplay.csprojResolveAssemblyReference.cache
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\AlarmDisplay\obj\Debug\AlarmDisplay.exe
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1\AlarmDisplay\obj\Debug\AlarmDisplay.pdb
+C:\Users\kacac\Desktop\Projekat SNUS - P1\AlarmDisplay\bin\Debug\AlarmDisplay.exe.config
+C:\Users\kacac\Desktop\Projekat SNUS - P1\AlarmDisplay\obj\Debug\AlarmDisplay.exe
+C:\Users\kacac\Desktop\Projekat SNUS - P1\AlarmDisplay\obj\Debug\AlarmDisplay.pdb
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\AlarmDisplay\bin\Debug\AlarmDisplay.exe.config
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\AlarmDisplay\obj\Debug\AlarmDisplay.exe
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\AlarmDisplay\obj\Debug\AlarmDisplay.pdb
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\AlarmDisplay\bin\Debug\AlarmDisplay.exe
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\AlarmDisplay\bin\Debug\AlarmDisplay.pdb
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\AlarmDisplay\bin\Debug\ScadaCommon.dll
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\AlarmDisplay\bin\Debug\ScadaCommon.pdb
+C:\Users\SaraPC\Desktop\Projekat SNUS - P1\AlarmDisplay\obj\Debug\AlarmDisplay.csprojResolveAssemblyReference.cache
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1FInal\AlarmDisplay\bin\Debug\AlarmDisplay.exe.config
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1FInal\AlarmDisplay\obj\Debug\AlarmDisplay.exe
+D:\Documents\III Godina\SNUS\Projekat SNUS - P1FInal\AlarmDisplay\obj\Debug\AlarmDisplay.pdb
